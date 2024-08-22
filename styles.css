@@ -1,0 +1,66 @@
+body{
+    color: white;
+    background: darkviolet;
+    margin: 0px;
+    font-family: "Titillium Web", sans-serif;
+}
+
+header{
+border-bottom: solid 5px rgb(0, 255, 39);
+padding: 20px;
+font-size: 40px;
+color: rgb(2, 255, 23);
+background: rgb(0, 0, 0);
+font-family: "Anton", sans-serif;
+}
+
+
+section {
+    padding-left: 25px;
+    
+  
+}
+
+
+ .chamada-texto{
+    margin-right: 5%;
+    font-size: 22px;
+
+    }
+
+    p{
+        font-size: 22px;
+    }
+
+    .linha2{
+        background: black;
+        border-bottom: solid 4px  rgb(0, 255, 39);
+        border-top: solid 4px  rgb(0, 255, 39);
+        padding-left: 30px;
+        margin-left: -40px;
+        color:  rgb(0, 255, 39);
+        font-family: "Anton", sans-serif;
+
+       
+
+
+        
+    }
+
+    .Filmes{
+display: flex;
+gap: 15px;
+
+
+    }
+
+    .filmes2{
+        margin-bottom: 23px;
+
+    }
+
+    .transformers{
+display: flex;
+font-size: 35px;
+
+    }
